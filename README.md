@@ -35,3 +35,6 @@ A static website showcasing classic cars, including a video gallery, image galle
 
 # License
 This project is licensed under the MIT License.
+
+# Authors
+* @Akash VR
