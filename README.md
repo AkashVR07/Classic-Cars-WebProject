@@ -34,7 +34,7 @@ A static website showcasing classic cars, including a video gallery, image galle
 * JavaScript Functions: Add additional functionality or alter the existing interactive elements in script.js.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/license/MIT).
 
 # Authors
-* @Akash VR
+* [Akash VR](https://github.com/AkashVR07)
