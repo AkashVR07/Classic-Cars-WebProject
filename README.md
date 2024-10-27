@@ -20,11 +20,11 @@ A static website showcasing classic cars, including a video gallery, image galle
 * Responsive Design: Styled for various screen sizes, enhancing mobile and desktop views.
 
 # Screenshots
-* [Screenshot-01](Screenshot-01.png).
-* [Screenshot-02](Screenshot-02.png).
-* [Screenshot-03](Screenshot-03.png).
-* [Screenshot-04](Screenshot-04.png).
-* [Screenshot-05](Screenshot-05.png).
+* [Screenshot-01](Screenshot-01.png)
+* [Screenshot-02](Screenshot-02.png)
+* [Screenshot-03](Screenshot-03.png)
+* [Screenshot-04](Screenshot-04.png)
+* [Screenshot-05](Screenshot-05.png)
 
 # Installation
 1. Clone the repository: git clone https://github.com/your-username/ClassicCars.git
