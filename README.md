@@ -19,6 +19,9 @@ A static website showcasing classic cars, including a video gallery, image galle
 * Contact Form: Simple form allowing users to submit their contact information and message.
 * Responsive Design: Styled for various screen sizes, enhancing mobile and desktop views.
 
+# Screenshots
+[Screenshot-01](D:\PROJECTS\WEB-Project-Classic-Cars\Screenshot-01.png)
+
 # Installation
 1. Clone the repository: git clone https://github.com/your-username/ClassicCars.git
 2. Open the index.html file in a web browser to view the website.
